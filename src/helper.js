@@ -1,0 +1,1 @@
+export const base_url = 'https://corona.lmao.ninja/v2'
